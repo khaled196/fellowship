@@ -2,4 +2,4 @@
 title: Coordination team
 ---
 
-{% include contributor-tiles-all.html role="Principal Investigator, Project Team"%}
+{% include contributor-carousel-selection.html role="Principal investigator, Project team"%}
