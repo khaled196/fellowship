@@ -15,6 +15,11 @@ Adam Partridge:
     git: 
     role: Fellow
     image_url: https://t20526645.p.clickup-attachments.com/t20526645/3cd868c0-38dc-4ce2-92b0-dcb20a993208/02-cohort_adam-partridge-profile-picture.jpg
+Katarzyna Kamieniecka:
+    git: kkamieniecka
+    role: Project Team
+    orcid: 0009-0004-2454-5950
+    affiliation: University of Bradford/ELIXIR-UK
 Alexia Cardona:
     git:
     role: Mentor
@@ -37,11 +42,11 @@ Branka Franicevic:
     orcid: 0000-0002-3440-6581
 Carole Goble:
     git: CaroleGoble
-    role: Project team
+    role: Project Team
     image_url:
 Catherine Knox:
     git: 
-    role: Project team
+    role: Project Team
     image_url: https://www.earlham.ac.uk/sites/default/files/styles/max_650x650/public/2023-02/catherine-knox-web-profile-NEW.jpg?itok=VCyJXnB-
 Ciara Loughrey:
     git: 
@@ -65,7 +70,7 @@ Emily Angiolini:
     image_url: https://www.earlham.ac.uk/sites/default/files/styles/image_1c_desktop_1x/public/images/profiles/Emily%20Angiolini/emily-angiolini-web.jpg?itok=VbY1d411
 Emily Delva:
     git: 
-    role: Project team
+    role: Project Team
     image_url: https://www.earlham.ac.uk/sites/default/files/styles/max_650x650/public/2023-02/emily-delva-web-profile.jpg?itok=YE7rEOvK
 Emma Karoune:
     git: 
@@ -75,11 +80,6 @@ Gabriela Lopez-Gonzalez:
     git: 
     role: Fellow
     image_url: https://t20526645.p.clickup-attachments.com/t20526645/8b291738-6040-41f4-82d6-6616486d6f55/20220710_222449.jpg
-Katarzyna Kamieniecka:
-    git: kkamieniecka
-    role: Project team
-    orcid: 0009-0004-2454-5950
-    affiliation: University of Bradford/ELIXIR-UK
 Khlaed Jumah:
     git: khaled196
     orcid: 
@@ -97,7 +97,7 @@ Krister Jazz Urog:
     image_url: https://t20526645.p.clickup-attachments.com/t20526645/ac9bde09-d0a5-47ac-816a-abc45135a055/JazzUrog.jpg
 Krzysztof Poterlowicz:
     git: poterlowicz-lab
-    role: Project team
+    role: Project Team
     orcid: 0000-0001-6173-5674
     image_url:
 Laura Cooper:
@@ -123,7 +123,7 @@ Munazah Andrabi:
     image_url:
 Neil Hall:
     git: smza
-    role: Project team
+    role: Project Team
     image_url: https://www.earlham.ac.uk/sites/default/files/styles/image_1c_desktop_1x/public/2022-07/neil-hall-web-profile.jpg?itok=UkCZ__Jl
 Nick Juty:
     git: nsjuty
@@ -156,7 +156,7 @@ Rob Ewing:
     image_url: https://t20526645.p.clickup-attachments.com/t20526645/a12e5e99-2ef1-485d-ae18-b430745c0adf/rob_ewing_profile_pic3.jpg
 Robert Andrews:
     git: robertmand
-    role: Project team
+    role: Project Team
     orcid: 0000-0002-3491-2361
     image_url:
 Sara Morsy:
@@ -173,7 +173,7 @@ Saskia Lawson-Tovey:
 Shoaib Sufi:
     git: saskia-lawson-tovey
     orcid: 0000-0002-8611-162X
-    role: Project team
+    role: Project Team
     image_url: https://elixiruknode.org/wp-content/uploads/2022/04/Shoaib_0-e1652195694693-160x160.jpeg
 Sonal Henson:
     git: 
@@ -181,7 +181,7 @@ Sonal Henson:
     image_url: https://t20526645.p.clickup-attachments.com/t20526645/42104659-0e67-442e-b2c7-db75089fa7b5/Profile%20photo-2.jpg
 Susanna-Assunta Sansone:
     git: SusannaSansone
-    role: Project team
+    role: Project Team
     image_url: 
 Tim Beck:
     git: 
@@ -203,6 +203,6 @@ Xenia Perez Sitja:
     git: sitjart
     email: 
     orcid: 0000-0002-7166-0183
-    role: Project team
+    role: Project Team
     affiliation: University of Bradford/ELIXIR-UK
 
